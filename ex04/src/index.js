@@ -9,5 +9,6 @@ function main(baking) {
     return { lowBread, highBread };
     // Only change code above this line
 }
+
 console.log(main(BAKING_TEMPERATURES));
 module.exports = main;
